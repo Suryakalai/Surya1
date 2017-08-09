@@ -1,0 +1,12 @@
+E:\VisualStdio_HM\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe
+E:\VisualStdio_HM\ExcelReader\ExcelReader\bin\Debug\ExcelReader.pdb
+E:\VisualStdio_HM\ExcelReader\ExcelReader\obj\x86\Debug\ExcelReader.Form1.resources
+E:\VisualStdio_HM\ExcelReader\ExcelReader\obj\x86\Debug\ExcelReader.Properties.Resources.resources
+E:\VisualStdio_HM\ExcelReader\ExcelReader\obj\x86\Debug\ExcelReader.csproj.GenerateResource.Cache
+E:\VisualStdio_HM\ExcelReader\ExcelReader\obj\x86\Debug\ExcelReader.exe
+E:\VisualStdio_HM\ExcelReader\ExcelReader\obj\x86\Debug\ExcelReader.pdb
+E:\VisualStdio_HM\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe.config
+E:\VisualStdio_HM\ExcelReader\ExcelReader\bin\Debug\Newtonsoft.Json.dll
+E:\VisualStdio_HM\ExcelReader\ExcelReader\bin\Debug\Newtonsoft.Json.xml
+E:\VisualStdio_HM\ExcelReader\ExcelReader\obj\x86\Debug\ExcelReader.csprojResolveAssemblyReference.cache
+E:\VisualStdio_HM\ExcelReader\ExcelReader\obj\x86\Debug\ExcelReader.Form2.resources
